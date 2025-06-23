@@ -1,8 +1,8 @@
 # Hi, I'm John 👋
 
-👨‍💻 Software engineer sharing my tech journey and learning <br/>
+👨‍💻 Web Developer sharing my tech journey and learning <br/>
 👨‍🎓 Studied Information Technology at the Jomo Kenyatta University of Agriculture and Technology <br/>
-🌱 Currently learning Back-end Web development, Data Analytics and AI engineering <br/>
+🌱 Currently learning Front and Backend Web development, Data Analytics and AI engineering <br/>
 
 
 ## 💻 Tech Stack 
